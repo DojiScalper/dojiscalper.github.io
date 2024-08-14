@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=Z1RJmh_OqeA
+Is a good tutorial for installing and running flask
+Must use a python virtual environment
+
+Looks like GithubPages is only good for writing static web pages. Flask is
+a framework that is good for running dynamic web pages, which is what we need
+for rendering charts in real time.
